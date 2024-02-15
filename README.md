@@ -12,3 +12,9 @@ Repositório contendo a resolução de todos os desafios propostos durante o cur
 
 - [Desafio 5](https://github.com/lzandrade/DIO-AI900-Bootcamp/tree/main/AI900-Desafio-5)
 
+Mais material com o conteúdo das aulas:
+
+- [Resumo das Aulas](https://github.com/lzandrade/DIO-AI900-Bootcamp/blob/main/Curso%20DIO%20Inteligencia%20Artificial%20-%20IA900.pdf)
+
+Espero que seja útil e ajude bastante gente 😎
+
